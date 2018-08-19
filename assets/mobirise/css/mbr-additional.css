@@ -1372,6 +1372,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r1bOf52zWc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1753,23 +1758,6 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/22-1-1800x1200.jpg");
-}
-.cid-qTkA127IK8 H1 {
-  color: #ffffff;
-}
-.cid-qTkA127IK8 .mbr-text,
-.cid-qTkA127IK8 .mbr-section-btn {
-  color: #f9f295;
-}
-.cid-qTkA127IK8 I {
-  color: #ffffff;
-}
-.cid-qTkA127IK8 .mbr-text,
-.cid-qTkA127IK8 .mbr-section-btn B {
-  color: #cc2952;
-}
 .cid-r10WCsGdD0 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2067,10 +2055,10 @@ body {
 .cid-r111f3H7fd .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-r118XhxZ5d {
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+.cid-r1bQJAqdkF {
+  background-image: url("../../../assets/images/03.jpg");
 }
-.cid-r118XhxZ5d .icons-media-container {
+.cid-r1bQJAqdkF .icons-media-container {
   display: flex;
   justify-content: center;
   -webkit-justify-content: center;
@@ -2080,43 +2068,17 @@ body {
   -webkit-flex-wrap: wrap;
   padding-top: 4rem;
 }
-.cid-r118XhxZ5d .icons-media-container .mbr-iconfont {
+.cid-r1bQJAqdkF .icons-media-container .mbr-iconfont {
   font-size: 96px;
   color: #ffffff;
 }
-.cid-r118XhxZ5d .icons-media-container .icon-block {
+.cid-r1bQJAqdkF .icons-media-container .icon-block {
   padding-bottom: 1rem;
 }
-.cid-r118XhxZ5d .mbr-text {
+.cid-r1bQJAqdkF .mbr-text {
   color: #ffffff;
 }
-.cid-r118XhxZ5d .card {
-  padding-bottom: 1.5rem;
-}
-.cid-r11a1A4FTB {
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
-}
-.cid-r11a1A4FTB .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-r11a1A4FTB .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-r11a1A4FTB .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-r11a1A4FTB .mbr-text {
-  color: #ffffff;
-}
-.cid-r11a1A4FTB .card {
+.cid-r1bQJAqdkF .card {
   padding-bottom: 1.5rem;
 }
 .cid-r11by3rhKe {
